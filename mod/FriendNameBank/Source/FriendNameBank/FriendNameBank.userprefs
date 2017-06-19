@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="FriendNameBank/FriendNameBank.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FriendNameBank/CSVNameInject.cs">
+    <Files>
+      <File FileName="../../../../../../../../../../home/gajop/CSVNameInject_old.cs" Line="1" Column="1" />
+      <File FileName="FriendNameBank/CSVNameInject.cs" Line="3" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

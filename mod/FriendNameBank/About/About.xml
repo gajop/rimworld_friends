@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+	<name>FriendNameBank</name>
+	<author>gajop</author>
+	<targetVersion>0.17.0</targetVersion>
+    <url>...</url>
+	<description>
+		Based on CSVNameBank by erdelf.
+	</description>
+</ModMetaData>
